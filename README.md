@@ -2,7 +2,7 @@
 
 ## 🎯 **Aspiring .NET Developer | IT Enthusiast | Lifelong Learner**
 
-I am a fresher .NET Developer from Bangladesh, passionate about building efficient applications and learning modern technologies. I have hands-on experience with ASP.NET MVC, Core MVC, API, Core API, and strong expertise in WinForms and WPF for desktop application development. I am also exploring frontend development with Angular and React to become a well-rounded developer.
+I am a fresher .NET Developer from Bangladesh, passionate about building efficient applications and learning modern technologies. I have hands-on experience with ASP.NET MVC, Core MVC, API, Core API, and strong expertise in **WinForms and WPF** for desktop application development. I am also exploring frontend development with Angular and React to become a well-rounded developer.
 
 🛠️ Skills & Technologies
 Languages: C#, SQL, HTML, CSS, JavaScript
