@@ -1,4 +1,4 @@
-👋 Hi, I’m Ekrom Hossan
+*👋 Hi, I’m Ekrom Hossan*
 
 🎯 Aspiring .NET Developer | IT Enthusiast | Lifelong Learner
 
